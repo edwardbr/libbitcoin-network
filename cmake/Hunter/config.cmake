@@ -7,7 +7,7 @@ hunter_config(secp256k1
 
 hunter_config(libbitcoin-system
     URL https://github.com/edwardbr/libbitcoin-system/archive/master.tar.gz
-    SHA1 d1de11c54e1b387ee74809cfa00e4b35331a002b
+    SHA1 e23ed1d464841aaf3a520f76db662b9f136c7261
     CMAKE_ARGS
         with-icu=YES
         )
