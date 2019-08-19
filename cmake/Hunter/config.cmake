@@ -9,7 +9,7 @@ hunter_config(libbitcoin-system
     URL https://github.com/edwardbr/libbitcoin-system/archive/master.tar.gz
     SHA1 e23ed1d464841aaf3a520f76db662b9f136c7261
     CMAKE_ARGS
-        with-icu=YES
+        with-icu=NO
         )
 
 hunter_config(ICU VERSION 63.1-p5)
